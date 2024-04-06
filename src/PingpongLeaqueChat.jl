@@ -1,5 +1,6 @@
 module PingpongLeaqueChat
 
 # Write your package code here.
-"HELLO"
+# See steps here...
+
 end
